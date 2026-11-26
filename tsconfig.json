@@ -1,0 +1,12 @@
+{
+  "extends": "./.wxt/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "resolveJsonModule": true,
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUncheckedIndexedAccess": false,
+    "types": ["node"]
+  },
+  "include": [".wxt/wxt.d.ts", "entrypoints", "src", "scripts", "tests", "wxt.config.ts", "vitest.config.ts"]
+}

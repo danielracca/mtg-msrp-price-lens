@@ -1,0 +1,194 @@
+{
+  "$comment": "Registry of verified official Wizards of the Coast sources. Each source is fetched ONLY by the db CLI (never by the extension), at most once per run, with a polite delay. Set metadata (release dates, variant lists) is cross-checked against the source text by the CLI; anything not found in the text is flagged for review.",
+  "userAgent": "MTGPriceLens-DB/0.1 (+manual maintenance script)",
+  "requestDelayMs": 1500,
+  "sources": [
+    {
+      "id": "magic-returns-to-listing-msrp-with-foundations",
+      "url": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+      "kind": "announcement",
+      "sets": [
+        {
+          "code": "FDN",
+          "name": "Foundations",
+          "aliases": ["Magic Foundations", "MTG Foundations", "Foundations Jumpstart"],
+          "releaseDate": "2024-11-15",
+          "releaseDateText": "November 15",
+          "universesBeyond": false,
+          "section": { "start": "Foundations products will have the following MSRPs", "end": "Innistrad Remastered products" },
+          "supplementarySourceId": "collecting-foundations"
+        },
+        {
+          "code": "INR",
+          "name": "Innistrad Remastered",
+          "aliases": [],
+          "releaseDate": "2025-01-24",
+          "releaseDateText": "January 24, 2025",
+          "universesBeyond": false,
+          "section": { "start": "Innistrad Remastered products will have these MSRPs", "end": "MSRPs for Aetherdrift" },
+          "supplementarySourceId": "collecting-innistrad-remastered"
+        },
+        {
+          "code": "DFT",
+          "name": "Aetherdrift",
+          "aliases": [],
+          "releaseDate": "2025-02-14",
+          "universesBeyond": false,
+          "crossCheckOnly": true,
+          "section": { "start": "MSRPs for Aetherdrift", "end": "is a special set" },
+          "labelAliases": { "Specialty Bundle": "Finish Line Bundle" }
+        }
+      ]
+    },
+    { "id": "collecting-foundations", "url": "https://magic.wizards.com/en/news/feature/collecting-foundations", "kind": "supplementary" },
+    { "id": "collecting-innistrad-remastered", "url": "https://magic.wizards.com/en/news/feature/collecting-innistrad-remastered", "kind": "supplementary" },
+    {
+      "id": "collecting-aetherdrift",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+      "kind": "collecting",
+      "sets": [{ "code": "DFT", "name": "Aetherdrift", "aliases": [], "releaseDate": "2025-02-14", "releaseDateText": "February 14, 2025", "universesBeyond": false }]
+    },
+    {
+      "id": "collecting-tarkir-dragonstorm",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+      "kind": "collecting",
+      "sets": [{ "code": "TDM", "name": "Tarkir: Dragonstorm", "aliases": ["Tarkir Dragonstorm", "Dragonstorm"], "releaseDate": "2025-04-11", "releaseDateText": "April 11, 2025", "universesBeyond": false }]
+    },
+    {
+      "id": "collecting-final-fantasy",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+      "kind": "collecting",
+      "sets": [
+        {
+          "code": "FIN",
+          "name": "FINAL FANTASY",
+          "aliases": ["Final Fantasy"],
+          "releaseDate": "2025-06-13",
+          "releaseDateText": "June 13",
+          "universesBeyond": true,
+          "variantGroups": { "Commander Deck": ["Revival Trance", "Limit Break", "Counter Blitz", "Scions & Spellcraft"], "Collector's Edition Commander Deck": ["Revival Trance", "Limit Break", "Counter Blitz", "Scions & Spellcraft"] },
+          "labelVariants": { "FINAL FANTASY VII Commander Deck – Game Edition": { "variant": "Limit Break (FINAL FANTASY VII Game Edition)", "edition": "game_edition", "aliases": ["Final Fantasy VII Game Edition", "FF7 Game Edition", "FFVII Game Edition"] } }
+        }
+      ]
+    },
+    {
+      "id": "collecting-edge-of-eternities",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+      "kind": "collecting",
+      "sets": [{ "code": "EOE", "name": "Edge of Eternities", "aliases": [], "releaseDate": "2025-08-01", "releaseDateText": "August 1, 2025", "universesBeyond": false }]
+    },
+    {
+      "id": "collecting-marvels-spider-man",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+      "kind": "collecting",
+      "sets": [{ "code": "SPM", "name": "Marvel's Spider-Man", "aliases": ["Marvels Spider-Man", "Marvel Spider-Man", "Spider-Man", "Spiderman", "Spider Man"], "releaseDate": "2025-09-26", "releaseDateText": "September 26, 2025", "universesBeyond": true }]
+    },
+    {
+      "id": "collecting-avatar-the-last-airbender",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+      "kind": "collecting",
+      "sets": [{ "code": "TLA", "name": "Avatar: The Last Airbender", "aliases": ["Avatar The Last Airbender", "Last Airbender"], "releaseDate": "2025-11-21", "releaseDateText": "November 21, 2025", "universesBeyond": true }]
+    },
+    {
+      "id": "collecting-lorwyn-eclipsed",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+      "kind": "collecting",
+      "sets": [{ "code": "ECL", "name": "Lorwyn Eclipsed", "aliases": [], "releaseDate": "2026-01-23", "releaseDateText": "January 23, 2026", "universesBeyond": false }]
+    },
+    {
+      "id": "collecting-teenage-mutant-ninja-turtles",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+      "kind": "collecting",
+      "sets": [
+        {
+          "code": "TMT",
+          "name": "Teenage Mutant Ninja Turtles",
+          "aliases": ["TMNT", "Ninja Turtles"],
+          "releaseDate": "2026-03-06",
+          "releaseDateText": "March 6, 2026",
+          "universesBeyond": true,
+          "variantGroups": { "Commander Deck": ["Turtle Power!"] },
+          "reviewedLabels": { "Turtle Team-Up": "other_sealed" }
+        }
+      ]
+    },
+    {
+      "id": "collecting-secrets-of-strixhaven",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+      "kind": "collecting",
+      "sets": [{ "code": "SOS", "name": "Secrets of Strixhaven", "aliases": [], "releaseDate": "2026-04-24", "releaseDateText": "April 24, 2026", "universesBeyond": false }]
+    },
+    {
+      "id": "collecting-marvel-super-heroes",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+      "kind": "collecting",
+      "sets": [{ "code": "MSH", "name": "Marvel Super Heroes", "aliases": ["Marvel Superheroes"], "releaseDate": "2026-06-26", "releaseDateText": "June 26, 2026", "universesBeyond": true, "variantGroups": { "Collector's Edition Commander Deck": ["Avengers Assemble", "Wakanda Forever", "The Fantastic Four", "Doom Prevails"] } }]
+    },
+    {
+      "id": "collecting-the-hobbit",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+      "kind": "collecting",
+      "sets": [{ "code": "HOB", "name": "The Hobbit", "aliases": ["Hobbit"], "releaseDate": "2026-08-14", "releaseDateText": "August 14, 2026", "universesBeyond": true }]
+    },
+    {
+      "id": "collecting-reality-fracture",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+      "kind": "collecting",
+      "sets": [
+        {
+          "code": "FRA",
+          "name": "Reality Fracture",
+          "aliases": [],
+          "releaseDate": "2026-10-02",
+          "releaseDateText": "October 2, 2026",
+          "universesBeyond": false,
+          "variantGroups": { "Foundations Commander Deck": ["Calling All Angels", "Keen Engineering", "Wretched Ranks", "Reign of Dragons", "Tramplesaurus Rex"] },
+          "labelVariants": { "Multiverse Reforged Commander Deck": { "variant": "Multiverse Reforged", "edition": "standard", "aliases": [] } }
+        }
+      ]
+    },
+    {
+      "id": "collecting-star-trek",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+      "kind": "collecting",
+      "sets": [{ "code": "TRK", "name": "Star Trek", "aliases": [], "releaseDate": "2026-11-13", "releaseDateText": "November 13, 2026", "universesBeyond": true, "variantGroups": { "Collector's Edition Commander Deck": ["Federation Fleet", "Landing Party", "Klingon Fury", "We Are the Borg"] } }]
+    },
+    {
+      "id": "collecting-nauctis-the-sunken-realm",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+      "kind": "collecting",
+      "sets": [{ "code": "NAU", "name": "Nauctis: The Sunken Realm", "aliases": ["Nauctis The Sunken Realm", "Nauctis", "Sunken Realm"], "releaseDate": "2027-02-05", "releaseDateText": "February 5, 2027", "universesBeyond": false, "variantGroups": { "Premium Edition Commander Deck": ["Merfolk Regiment", "Terrors of the Abyss", "Blood in the Water", "Seal the Deal"] } }]
+    }
+  ],
+  "legacySets": {
+    "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists.",
+    "names": [
+      ["Duskmourn: House of Horror", "Duskmourn"],
+      ["Bloomburrow"],
+      ["Modern Horizons 3"],
+      ["Assassin's Creed", "Assassins Creed"],
+      ["Outlaws of Thunder Junction", "Thunder Junction"],
+      ["Fallout"],
+      ["Murders at Karlov Manor", "Karlov Manor"],
+      ["Ravnica Remastered"],
+      ["The Lost Caverns of Ixalan", "Lost Caverns of Ixalan"],
+      ["Doctor Who"],
+      ["Wilds of Eldraine"],
+      ["Commander Masters"],
+      ["The Lord of the Rings: Tales of Middle-earth", "Lord of the Rings", "Tales of Middle-earth", "LOTR"],
+      ["March of the Machine"],
+      ["Phyrexia: All Will Be One", "All Will Be One"],
+      ["The Brothers' War", "Brothers War"],
+      ["Dominaria United"],
+      ["Warhammer 40,000", "Warhammer 40K", "Warhammer"],
+      ["Streets of New Capenna", "New Capenna"],
+      ["Kamigawa: Neon Dynasty", "Neon Dynasty"],
+      ["Innistrad: Crimson Vow", "Crimson Vow"],
+      ["Innistrad: Midnight Hunt", "Midnight Hunt"],
+      ["Strixhaven: School of Mages", "Strixhaven School of Mages"],
+      ["Mystery Booster 2"],
+      ["Modern Horizons 2"],
+      ["Double Masters"]
+    ]
+  }
+}
