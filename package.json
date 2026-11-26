@@ -1,0 +1,35 @@
+{
+  "name": "mtg-price-lens",
+  "description": "Compare sealed Magic: The Gathering prices on Canadian retailers against official MSRP.",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "build": "wxt build",
+    "build:safari": "wxt build -b safari --mv3",
+    "zip": "wxt zip",
+    "zip:safari": "wxt zip -b safari --mv3",
+    "compile": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "wxt build && node tests/e2e/run-e2e.mjs",
+    "db:refresh": "tsx scripts/db/cli.ts refresh",
+    "db:validate": "tsx scripts/db/cli.ts validate",
+    "db:discover": "tsx scripts/db/cli.ts discover",
+    "postinstall": "wxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.7",
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0",
+    "@wxt-dev/module-react": "^1.2.2",
+    "jsdom": "^26.1.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4",
+    "wxt": "^0.21.5"
+  }
+}

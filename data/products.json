@@ -1,0 +1,5724 @@
+{
+  "schemaVersion": 1,
+  "dbVersion": "2026.11.26",
+  "generatedAt": "2026-11-26",
+  "coverageNote": "Sealed products from Magic: The Gathering Foundations onward where Wizards of the Coast published an official USD MSRP. Booster box benchmarks are derived (pack count × pack MSRP) and are never official.",
+  "sets": [
+    {
+      "code": "FDN",
+      "name": "Foundations",
+      "aliases": [
+        "Magic Foundations",
+        "MTG Foundations",
+        "Foundations Jumpstart"
+      ],
+      "releaseDate": "2024-11-15",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+      "hasMsrp": true
+    },
+    {
+      "code": "INR",
+      "name": "Innistrad Remastered",
+      "aliases": [],
+      "releaseDate": "2025-01-24",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+      "hasMsrp": true
+    },
+    {
+      "code": "DFT",
+      "name": "Aetherdrift",
+      "aliases": [],
+      "releaseDate": "2025-02-14",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+      "hasMsrp": true
+    },
+    {
+      "code": "TDM",
+      "name": "Tarkir: Dragonstorm",
+      "aliases": [
+        "Tarkir Dragonstorm",
+        "Dragonstorm"
+      ],
+      "releaseDate": "2025-04-11",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+      "hasMsrp": true
+    },
+    {
+      "code": "FIN",
+      "name": "FINAL FANTASY",
+      "aliases": [
+        "Final Fantasy"
+      ],
+      "releaseDate": "2025-06-13",
+      "universesBeyond": true,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+      "hasMsrp": true
+    },
+    {
+      "code": "EOE",
+      "name": "Edge of Eternities",
+      "aliases": [],
+      "releaseDate": "2025-08-01",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+      "hasMsrp": true
+    },
+    {
+      "code": "SPM",
+      "name": "Marvel's Spider-Man",
+      "aliases": [
+        "Marvels Spider-Man",
+        "Marvel Spider-Man",
+        "Spider-Man",
+        "Spiderman",
+        "Spider Man"
+      ],
+      "releaseDate": "2025-09-26",
+      "universesBeyond": true,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+      "hasMsrp": true
+    },
+    {
+      "code": "TLA",
+      "name": "Avatar: The Last Airbender",
+      "aliases": [
+        "Avatar The Last Airbender",
+        "Last Airbender"
+      ],
+      "releaseDate": "2025-11-21",
+      "universesBeyond": true,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+      "hasMsrp": true
+    },
+    {
+      "code": "ECL",
+      "name": "Lorwyn Eclipsed",
+      "aliases": [],
+      "releaseDate": "2026-01-23",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+      "hasMsrp": true
+    },
+    {
+      "code": "TMT",
+      "name": "Teenage Mutant Ninja Turtles",
+      "aliases": [
+        "TMNT",
+        "Ninja Turtles"
+      ],
+      "releaseDate": "2026-03-06",
+      "universesBeyond": true,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+      "hasMsrp": true
+    },
+    {
+      "code": "SOS",
+      "name": "Secrets of Strixhaven",
+      "aliases": [],
+      "releaseDate": "2026-04-24",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+      "hasMsrp": true
+    },
+    {
+      "code": "MSH",
+      "name": "Marvel Super Heroes",
+      "aliases": [
+        "Marvel Superheroes"
+      ],
+      "releaseDate": "2026-06-26",
+      "universesBeyond": true,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+      "hasMsrp": true
+    },
+    {
+      "code": "HOB",
+      "name": "The Hobbit",
+      "aliases": [
+        "Hobbit"
+      ],
+      "releaseDate": "2026-08-14",
+      "universesBeyond": true,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+      "hasMsrp": true
+    },
+    {
+      "code": "FRA",
+      "name": "Reality Fracture",
+      "aliases": [],
+      "releaseDate": "2026-10-02",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+      "hasMsrp": true
+    },
+    {
+      "code": "TRK",
+      "name": "Star Trek",
+      "aliases": [],
+      "releaseDate": "2026-11-13",
+      "universesBeyond": true,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+      "hasMsrp": true
+    },
+    {
+      "code": "NAU",
+      "name": "Nauctis: The Sunken Realm",
+      "aliases": [
+        "Nauctis The Sunken Realm",
+        "Nauctis",
+        "Sunken Realm"
+      ],
+      "releaseDate": "2027-02-05",
+      "universesBeyond": false,
+      "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+      "hasMsrp": true
+    }
+  ],
+  "legacySets": [
+    {
+      "name": "Duskmourn: House of Horror",
+      "aliases": [
+        "Duskmourn"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Bloomburrow",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Modern Horizons 3",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Assassin's Creed",
+      "aliases": [
+        "Assassins Creed"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Outlaws of Thunder Junction",
+      "aliases": [
+        "Thunder Junction"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Fallout",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Murders at Karlov Manor",
+      "aliases": [
+        "Karlov Manor"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Ravnica Remastered",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "The Lost Caverns of Ixalan",
+      "aliases": [
+        "Lost Caverns of Ixalan"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Doctor Who",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Wilds of Eldraine",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Commander Masters",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "The Lord of the Rings: Tales of Middle-earth",
+      "aliases": [
+        "Lord of the Rings",
+        "Tales of Middle-earth",
+        "LOTR"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "March of the Machine",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Phyrexia: All Will Be One",
+      "aliases": [
+        "All Will Be One"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "The Brothers' War",
+      "aliases": [
+        "Brothers War"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Dominaria United",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Warhammer 40,000",
+      "aliases": [
+        "Warhammer 40K",
+        "Warhammer"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Streets of New Capenna",
+      "aliases": [
+        "New Capenna"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Kamigawa: Neon Dynasty",
+      "aliases": [
+        "Neon Dynasty"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Innistrad: Crimson Vow",
+      "aliases": [
+        "Crimson Vow"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Innistrad: Midnight Hunt",
+      "aliases": [
+        "Midnight Hunt"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Strixhaven: School of Mages",
+      "aliases": [
+        "Strixhaven School of Mages"
+      ],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Mystery Booster 2",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Modern Horizons 2",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    },
+    {
+      "name": "Double Masters",
+      "aliases": [],
+      "reason": "Released before Wizards resumed publishing MSRPs with Foundations (announced Oct 25, 2024). No official MSRP exists."
+    }
+  ],
+  "products": [
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--beginner-box",
+      "name": "Foundations Beginner Box",
+      "aliases": [
+        "Beginner Box"
+      ],
+      "category": "beginner_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 29.99,
+        "sourceLabel": "Beginner Box: $29.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--bundle",
+      "name": "Foundations Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Bundle: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--collector-booster-box",
+      "name": "Foundations Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "No official box MSRP and the pack count is not stated in the official source."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--collector-booster-pack",
+      "name": "Foundations Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 24.99,
+        "sourceLabel": "Collector Booster: $24.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--jumpstart-booster-pack",
+      "name": "Foundations Jumpstart Booster",
+      "aliases": [
+        "Jumpstart Booster"
+      ],
+      "category": "jumpstart_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Jumpstart Booster: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--play-booster-box",
+      "name": "Foundations Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "No official box MSRP and the pack count is not stated in the official source."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--play-booster-pack",
+      "name": "Foundations Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 5.25,
+        "sourceLabel": "Play Booster: $5.25"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--prerelease-kit",
+      "name": "Foundations Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Foundations",
+      "setCode": "FDN",
+      "releaseDate": "2024-11-15",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fdn--starter-collection",
+      "name": "Foundations Starter Collection",
+      "aliases": [
+        "Starter Collection"
+      ],
+      "category": "starter_collection",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 59.99,
+        "sourceLabel": "Starter Collection: $59.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Innistrad Remastered",
+      "setCode": "INR",
+      "releaseDate": "2025-01-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "inr--collector-booster-box",
+      "name": "Innistrad Remastered Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "No official box MSRP and the pack count is not stated in the official source."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Innistrad Remastered",
+      "setCode": "INR",
+      "releaseDate": "2025-01-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "inr--collector-booster-pack",
+      "name": "Innistrad Remastered Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 29.99,
+        "sourceLabel": "Collector Booster: $29.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Innistrad Remastered",
+      "setCode": "INR",
+      "releaseDate": "2025-01-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "inr--play-booster-box",
+      "name": "Innistrad Remastered Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "No official box MSRP and the pack count is not stated in the official source."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Innistrad Remastered",
+      "setCode": "INR",
+      "releaseDate": "2025-01-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "inr--play-booster-pack",
+      "name": "Innistrad Remastered Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/announcements/magic-returns-to-listing-msrp-with-foundations",
+        "sourceTitle": "Magic Returns to Listing MSRP with Foundations",
+        "sourcePublishedDate": "2024-10-25",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--bundle",
+      "name": "Aetherdrift Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "official",
+        "usd": 53.99,
+        "sourceLabel": "Bundle: $53.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--collector-booster-box",
+      "name": "Aetherdrift Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "dft--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--collector-booster-pack",
+      "name": "Aetherdrift Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "official",
+        "usd": 24.99,
+        "sourceLabel": "Collector Booster: $24.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--commander-deck",
+      "name": "Aetherdrift Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--commander-deck--eternal-might",
+      "name": "Aetherdrift Eternal Might Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Eternal Might"
+      ],
+      "category": "commander_deck",
+      "variant": "Eternal Might",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--commander-deck--living-energy",
+      "name": "Aetherdrift Living Energy Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Living Energy"
+      ],
+      "category": "commander_deck",
+      "variant": "Living Energy",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--play-booster-box",
+      "name": "Aetherdrift Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "dft--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--play-booster-pack",
+      "name": "Aetherdrift Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Play Booster: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--prerelease-kit",
+      "name": "Aetherdrift Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Aetherdrift",
+      "setCode": "DFT",
+      "releaseDate": "2025-02-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "dft--specialty-bundle--finish-line-bundle",
+      "name": "Aetherdrift Finish Line Bundle",
+      "aliases": [
+        "Finish Line Bundle"
+      ],
+      "category": "specialty_bundle",
+      "variant": "Finish Line Bundle",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-aetherdrift",
+        "sourceTitle": "Collecting Aetherdrift: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-01-21",
+        "classification": "official",
+        "usd": 79.99,
+        "sourceLabel": "Finish Line Bundle: $79.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--bundle",
+      "name": "Tarkir: Dragonstorm Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 53.99,
+        "sourceLabel": "Bundle: $53.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--collector-booster-box",
+      "name": "Tarkir: Dragonstorm Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "tdm--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--collector-booster-pack",
+      "name": "Tarkir: Dragonstorm Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 24.99,
+        "sourceLabel": "Collector Booster: $24.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--commander-deck",
+      "name": "Tarkir: Dragonstorm Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--commander-deck--abzan-armor",
+      "name": "Tarkir: Dragonstorm Abzan Armor Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Abzan Armor"
+      ],
+      "category": "commander_deck",
+      "variant": "Abzan Armor",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--commander-deck--jeskai-striker",
+      "name": "Tarkir: Dragonstorm Jeskai Striker Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Jeskai Striker"
+      ],
+      "category": "commander_deck",
+      "variant": "Jeskai Striker",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--commander-deck--mardu-surge",
+      "name": "Tarkir: Dragonstorm Mardu Surge Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Mardu Surge"
+      ],
+      "category": "commander_deck",
+      "variant": "Mardu Surge",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--commander-deck--sultai-arisen",
+      "name": "Tarkir: Dragonstorm Sultai Arisen Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Sultai Arisen"
+      ],
+      "category": "commander_deck",
+      "variant": "Sultai Arisen",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--commander-deck--temur-roar",
+      "name": "Tarkir: Dragonstorm Temur Roar Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Temur Roar"
+      ],
+      "category": "commander_deck",
+      "variant": "Temur Roar",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--play-booster-box",
+      "name": "Tarkir: Dragonstorm Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "tdm--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--play-booster-pack",
+      "name": "Tarkir: Dragonstorm Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Play Booster: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Tarkir: Dragonstorm",
+      "setCode": "TDM",
+      "releaseDate": "2025-04-11",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tdm--prerelease-kit",
+      "name": "Tarkir: Dragonstorm Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm",
+        "sourceTitle": "Collecting Tarkir: Dragonstorm: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-03-18",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--bundle",
+      "name": "FINAL FANTASY Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Bundle: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--collector-booster-box",
+      "name": "FINAL FANTASY Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "fin--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--collector-booster-pack",
+      "name": "FINAL FANTASY Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 37.99,
+        "sourceLabel": "Collector Booster: $37.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck",
+      "name": "FINAL FANTASY Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Commander Deck: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--collectors-edition",
+      "name": "FINAL FANTASY Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 149.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $149.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--counter-blitz",
+      "name": "FINAL FANTASY Counter Blitz Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Counter Blitz"
+      ],
+      "category": "commander_deck",
+      "variant": "Counter Blitz",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Commander Deck: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--counter-blitz--collectors-edition",
+      "name": "FINAL FANTASY Counter Blitz Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Counter Blitz"
+      ],
+      "category": "commander_deck",
+      "variant": "Counter Blitz",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 149.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $149.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--limit-break",
+      "name": "FINAL FANTASY Limit Break Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Limit Break"
+      ],
+      "category": "commander_deck",
+      "variant": "Limit Break",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Commander Deck: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--limit-break--collectors-edition",
+      "name": "FINAL FANTASY Limit Break Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Limit Break"
+      ],
+      "category": "commander_deck",
+      "variant": "Limit Break",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 149.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $149.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--limit-break-final-fantasy-vii-game-edition--game-edition",
+      "name": "FINAL FANTASY Limit Break (FINAL FANTASY VII Game Edition) Commander Deck",
+      "aliases": [
+        "FINAL FANTASY VII Commander Deck – Game Edition",
+        "Final Fantasy VII Game Edition",
+        "FF7 Game Edition",
+        "FFVII Game Edition"
+      ],
+      "category": "commander_deck",
+      "variant": "Limit Break (FINAL FANTASY VII Game Edition)",
+      "edition": "game_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 99.99,
+        "sourceLabel": "FINAL FANTASY VII Commander Deck – Game Edition: $99.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--revival-trance",
+      "name": "FINAL FANTASY Revival Trance Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Revival Trance"
+      ],
+      "category": "commander_deck",
+      "variant": "Revival Trance",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Commander Deck: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--revival-trance--collectors-edition",
+      "name": "FINAL FANTASY Revival Trance Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Revival Trance"
+      ],
+      "category": "commander_deck",
+      "variant": "Revival Trance",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 149.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $149.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--scions-and-spellcraft",
+      "name": "FINAL FANTASY Scions & Spellcraft Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Scions & Spellcraft"
+      ],
+      "category": "commander_deck",
+      "variant": "Scions & Spellcraft",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Commander Deck: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--commander-deck--scions-and-spellcraft--collectors-edition",
+      "name": "FINAL FANTASY Scions & Spellcraft Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Scions & Spellcraft"
+      ],
+      "category": "commander_deck",
+      "variant": "Scions & Spellcraft",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 149.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $149.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--gift-bundle",
+      "name": "FINAL FANTASY Gift Bundle",
+      "aliases": [
+        "Gift Bundle"
+      ],
+      "category": "gift_bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Gift Bundle: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--play-booster-box",
+      "name": "FINAL FANTASY Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "fin--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--play-booster-pack",
+      "name": "FINAL FANTASY Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--prerelease-kit",
+      "name": "FINAL FANTASY Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--scene-box",
+      "name": "FINAL FANTASY Scene Box",
+      "aliases": [
+        "Scene Box"
+      ],
+      "category": "scene_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 41.99,
+        "sourceLabel": "Scene Box: $41.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--specialty-bundle--chocobo-bundle",
+      "name": "FINAL FANTASY Chocobo Bundle",
+      "aliases": [
+        "Chocobo Bundle"
+      ],
+      "category": "specialty_bundle",
+      "variant": "Chocobo Bundle",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 109.99,
+        "sourceLabel": "Chocobo Bundle: $109.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "FINAL FANTASY",
+      "setCode": "FIN",
+      "releaseDate": "2025-06-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fin--starter-kit",
+      "name": "FINAL FANTASY Starter Kit",
+      "aliases": [
+        "Starter Kit"
+      ],
+      "category": "starter_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-final-fantasy",
+        "sourceTitle": "Collecting Magic: The Gathering®—FINAL FANTASY™: The Story Continues",
+        "sourcePublishedDate": "2025-09-26",
+        "classification": "official",
+        "usd": 19.99,
+        "sourceLabel": "Starter Kit: $19.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--bundle",
+      "name": "Edge of Eternities Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "official",
+        "usd": 53.99,
+        "sourceLabel": "Bundle: $53.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--collector-booster-box",
+      "name": "Edge of Eternities Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "eoe--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--collector-booster-pack",
+      "name": "Edge of Eternities Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "official",
+        "usd": 24.99,
+        "sourceLabel": "Collector Booster: $24.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--commander-deck",
+      "name": "Edge of Eternities Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--commander-deck--counter-intelligence",
+      "name": "Edge of Eternities Counter Intelligence Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Counter Intelligence"
+      ],
+      "category": "commander_deck",
+      "variant": "Counter Intelligence",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--commander-deck--world-shaper",
+      "name": "Edge of Eternities World Shaper Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "World Shaper"
+      ],
+      "category": "commander_deck",
+      "variant": "World Shaper",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "official",
+        "usd": 44.99,
+        "sourceLabel": "Commander Deck: $44.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--play-booster-box",
+      "name": "Edge of Eternities Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "eoe--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--play-booster-pack",
+      "name": "Edge of Eternities Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Play Booster: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Edge of Eternities",
+      "setCode": "EOE",
+      "releaseDate": "2025-08-01",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "eoe--prerelease-kit",
+      "name": "Edge of Eternities Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-edge-of-eternities",
+        "sourceTitle": "Collecting Edge of Eternities: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-07-08",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--bundle",
+      "name": "Marvel's Spider-Man Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Bundle: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--collector-booster-box",
+      "name": "Marvel's Spider-Man Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "spm--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--collector-booster-pack",
+      "name": "Marvel's Spider-Man Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "official",
+        "usd": 37.99,
+        "sourceLabel": "Collector Booster: $37.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--gift-bundle",
+      "name": "Marvel's Spider-Man Gift Bundle",
+      "aliases": [
+        "Gift Bundle"
+      ],
+      "category": "gift_bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Gift Bundle: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--play-booster-box",
+      "name": "Marvel's Spider-Man Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "spm--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--play-booster-pack",
+      "name": "Marvel's Spider-Man Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--prerelease-kit",
+      "name": "Marvel's Spider-Man Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel's Spider-Man",
+      "setCode": "SPM",
+      "releaseDate": "2025-09-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "spm--scene-box",
+      "name": "Marvel's Spider-Man Scene Box",
+      "aliases": [
+        "Scene Box"
+      ],
+      "category": "scene_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel's Spider-Man: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-08-29",
+        "classification": "official",
+        "usd": 41.99,
+        "sourceLabel": "Scene Box: $41.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--beginner-box",
+      "name": "Avatar: The Last Airbender Beginner Box",
+      "aliases": [
+        "Beginner Box"
+      ],
+      "category": "beginner_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "official",
+        "usd": 34.99,
+        "sourceLabel": "Beginner Box: $34.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--bundle",
+      "name": "Avatar: The Last Airbender Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Bundle: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--collector-booster-box",
+      "name": "Avatar: The Last Airbender Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "tla--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--collector-booster-pack",
+      "name": "Avatar: The Last Airbender Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "official",
+        "usd": 37.99,
+        "sourceLabel": "Collector Booster: $37.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--commander-bundle",
+      "name": "Avatar: The Last Airbender Commander's Bundle",
+      "aliases": [
+        "Commander's Bundle"
+      ],
+      "category": "commander_bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "official",
+        "usd": 109.99,
+        "sourceLabel": "Commander's Bundle: $109.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--jumpstart-booster-pack",
+      "name": "Avatar: The Last Airbender Jumpstart Booster",
+      "aliases": [
+        "Jumpstart Booster"
+      ],
+      "category": "jumpstart_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Jumpstart Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--play-booster-box",
+      "name": "Avatar: The Last Airbender Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "tla--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--play-booster-pack",
+      "name": "Avatar: The Last Airbender Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--prerelease-kit",
+      "name": "Avatar: The Last Airbender Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Avatar: The Last Airbender",
+      "setCode": "TLA",
+      "releaseDate": "2025-11-21",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tla--scene-box",
+      "name": "Avatar: The Last Airbender Scene Box",
+      "aliases": [
+        "Scene Box"
+      ],
+      "category": "scene_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender",
+        "sourceTitle": "Collecting Magic: The Gathering® | Avatar: The Last Airbender™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2025-10-28",
+        "classification": "official",
+        "usd": 41.99,
+        "sourceLabel": "Scene Box: $41.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--bundle",
+      "name": "Lorwyn Eclipsed Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 57.99,
+        "sourceLabel": "Bundle: $57.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--collector-booster-box",
+      "name": "Lorwyn Eclipsed Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "ecl--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--collector-booster-pack",
+      "name": "Lorwyn Eclipsed Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 26.99,
+        "sourceLabel": "Collector Booster: $26.99*",
+        "note": "Source marks this MSRP with a footnote (price change vs. previous sets)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--commander-deck",
+      "name": "Lorwyn Eclipsed Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99*",
+        "note": "Source marks this MSRP with a footnote (price change vs. previous sets)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--commander-deck--blight-curse",
+      "name": "Lorwyn Eclipsed Blight Curse Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Blight Curse"
+      ],
+      "category": "commander_deck",
+      "variant": "Blight Curse",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99*",
+        "note": "Source marks this MSRP with a footnote (price change vs. previous sets)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--commander-deck--dance-of-the-elements",
+      "name": "Lorwyn Eclipsed Dance of the Elements Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Dance of the Elements"
+      ],
+      "category": "commander_deck",
+      "variant": "Dance of the Elements",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99*",
+        "note": "Source marks this MSRP with a footnote (price change vs. previous sets)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--draft-night",
+      "name": "Lorwyn Eclipsed Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Draft Night: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--play-booster-box",
+      "name": "Lorwyn Eclipsed Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "ecl--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--play-booster-pack",
+      "name": "Lorwyn Eclipsed Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Play Booster: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--prerelease-kit",
+      "name": "Lorwyn Eclipsed Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Lorwyn Eclipsed",
+      "setCode": "ECL",
+      "releaseDate": "2026-01-23",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "ecl--theme-deck",
+      "name": "Lorwyn Eclipsed 60-Card Theme Deck",
+      "aliases": [
+        "60-Card Theme Deck"
+      ],
+      "category": "theme_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+        "sourceTitle": "Collecting Lorwyn Eclipsed: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-01-05",
+        "classification": "official",
+        "usd": 23.99,
+        "sourceLabel": "60-Card Theme Deck: $23.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--bundle",
+      "name": "Teenage Mutant Ninja Turtles Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Bundle: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--collector-booster-box",
+      "name": "Teenage Mutant Ninja Turtles Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "tmt--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--collector-booster-pack",
+      "name": "Teenage Mutant Ninja Turtles Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 37.99,
+        "sourceLabel": "Collector Booster: $37.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--commander-deck",
+      "name": "Teenage Mutant Ninja Turtles Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Commander Deck: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--commander-deck--turtle-power",
+      "name": "Teenage Mutant Ninja Turtles Turtle Power! Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Turtle Power!"
+      ],
+      "category": "commander_deck",
+      "variant": "Turtle Power!",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Commander Deck: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--draft-night",
+      "name": "Teenage Mutant Ninja Turtles Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 119.99,
+        "sourceLabel": "Draft Night: $119.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--other-sealed--turtle-team-up",
+      "name": "Teenage Mutant Ninja Turtles Turtle Team-Up",
+      "aliases": [
+        "Turtle Team-Up"
+      ],
+      "category": "other_sealed",
+      "variant": "Turtle Team-Up",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Turtle Team-Up: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--play-booster-box",
+      "name": "Teenage Mutant Ninja Turtles Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "tmt--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--play-booster-pack",
+      "name": "Teenage Mutant Ninja Turtles Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--prerelease-kit",
+      "name": "Teenage Mutant Ninja Turtles Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setCode": "TMT",
+      "releaseDate": "2026-03-06",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "tmt--specialty-bundle--pizza-bundle",
+      "name": "Teenage Mutant Ninja Turtles Pizza Bundle",
+      "aliases": [
+        "Pizza Bundle"
+      ],
+      "category": "specialty_bundle",
+      "variant": "Pizza Bundle",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+        "sourceTitle": "Collecting Magic: The Gathering® | Teenage Mutant Ninja Turtles: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-02-17",
+        "classification": "official",
+        "usd": 99.99,
+        "sourceLabel": "Pizza Bundle: $99.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--bundle",
+      "name": "Secrets of Strixhaven Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 57.99,
+        "sourceLabel": "Bundle: $57.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--collector-booster-box",
+      "name": "Secrets of Strixhaven Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "sos--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--collector-booster-pack",
+      "name": "Secrets of Strixhaven Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 26.99,
+        "sourceLabel": "Collector Booster: $26.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--commander-deck",
+      "name": "Secrets of Strixhaven Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--commander-deck--lorehold-spirit",
+      "name": "Secrets of Strixhaven Lorehold Spirit Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Lorehold Spirit"
+      ],
+      "category": "commander_deck",
+      "variant": "Lorehold Spirit",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--commander-deck--prismari-artistry",
+      "name": "Secrets of Strixhaven Prismari Artistry Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Prismari Artistry"
+      ],
+      "category": "commander_deck",
+      "variant": "Prismari Artistry",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--commander-deck--quandrix-unlimited",
+      "name": "Secrets of Strixhaven Quandrix Unlimited Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Quandrix Unlimited"
+      ],
+      "category": "commander_deck",
+      "variant": "Quandrix Unlimited",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--commander-deck--silverquill-influence",
+      "name": "Secrets of Strixhaven Silverquill Influence Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Silverquill Influence"
+      ],
+      "category": "commander_deck",
+      "variant": "Silverquill Influence",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--commander-deck--witherbloom-pestilence",
+      "name": "Secrets of Strixhaven Witherbloom Pestilence Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Witherbloom Pestilence"
+      ],
+      "category": "commander_deck",
+      "variant": "Witherbloom Pestilence",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--draft-night",
+      "name": "Secrets of Strixhaven Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Draft Night: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--play-booster-box",
+      "name": "Secrets of Strixhaven Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "sos--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--play-booster-pack",
+      "name": "Secrets of Strixhaven Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Play Booster: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--prerelease-kit",
+      "name": "Secrets of Strixhaven Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--specialty-bundle--codex-bundle",
+      "name": "Secrets of Strixhaven Codex Bundle",
+      "aliases": [
+        "Codex Bundle"
+      ],
+      "category": "specialty_bundle",
+      "variant": "Codex Bundle",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Codex Bundle: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Secrets of Strixhaven",
+      "setCode": "SOS",
+      "releaseDate": "2026-04-24",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "sos--theme-deck",
+      "name": "Secrets of Strixhaven 60-Card Theme Deck",
+      "aliases": [
+        "60-Card Theme Deck"
+      ],
+      "category": "theme_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+        "sourceTitle": "Collecting Secrets of Strixhaven: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-03-31",
+        "classification": "official",
+        "usd": 23.99,
+        "sourceLabel": "60-Card Theme Deck: $23.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--beginner-box",
+      "name": "Marvel Super Heroes Beginner Box",
+      "aliases": [
+        "Beginner Box"
+      ],
+      "category": "beginner_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 34.99,
+        "sourceLabel": "Beginner Box: $34.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--bundle",
+      "name": "Marvel Super Heroes Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Bundle: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--collector-booster-box",
+      "name": "Marvel Super Heroes Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "msh--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--collector-booster-pack",
+      "name": "Marvel Super Heroes Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 37.99,
+        "sourceLabel": "Collector Booster: $37.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck",
+      "name": "Marvel Super Heroes Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--avengers-assemble",
+      "name": "Marvel Super Heroes Avengers Assemble Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Avengers Assemble"
+      ],
+      "category": "commander_deck",
+      "variant": "Avengers Assemble",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--avengers-assemble--collectors-edition",
+      "name": "Marvel Super Heroes Avengers Assemble Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Avengers Assemble"
+      ],
+      "category": "commander_deck",
+      "variant": "Avengers Assemble",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--collectors-edition",
+      "name": "Marvel Super Heroes Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--doom-prevails",
+      "name": "Marvel Super Heroes Doom Prevails Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Doom Prevails"
+      ],
+      "category": "commander_deck",
+      "variant": "Doom Prevails",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--doom-prevails--collectors-edition",
+      "name": "Marvel Super Heroes Doom Prevails Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Doom Prevails"
+      ],
+      "category": "commander_deck",
+      "variant": "Doom Prevails",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--the-fantastic-four",
+      "name": "Marvel Super Heroes The Fantastic Four Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "The Fantastic Four"
+      ],
+      "category": "commander_deck",
+      "variant": "The Fantastic Four",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--the-fantastic-four--collectors-edition",
+      "name": "Marvel Super Heroes The Fantastic Four Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "The Fantastic Four"
+      ],
+      "category": "commander_deck",
+      "variant": "The Fantastic Four",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--wakanda-forever",
+      "name": "Marvel Super Heroes Wakanda Forever Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Wakanda Forever"
+      ],
+      "category": "commander_deck",
+      "variant": "Wakanda Forever",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--commander-deck--wakanda-forever--collectors-edition",
+      "name": "Marvel Super Heroes Wakanda Forever Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Wakanda Forever"
+      ],
+      "category": "commander_deck",
+      "variant": "Wakanda Forever",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--draft-night",
+      "name": "Marvel Super Heroes Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 119.99,
+        "sourceLabel": "Draft Night: $119.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--gift-bundle",
+      "name": "Marvel Super Heroes Gift Bundle",
+      "aliases": [
+        "Gift Bundle"
+      ],
+      "category": "gift_bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Gift Bundle: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--jumpstart-booster-pack",
+      "name": "Marvel Super Heroes Jumpstart Booster",
+      "aliases": [
+        "Jumpstart Booster"
+      ],
+      "category": "jumpstart_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Jumpstart Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--play-booster-box",
+      "name": "Marvel Super Heroes Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "msh--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--play-booster-pack",
+      "name": "Marvel Super Heroes Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--prerelease-kit",
+      "name": "Marvel Super Heroes Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Marvel Super Heroes",
+      "setCode": "MSH",
+      "releaseDate": "2026-06-26",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "msh--scene-box",
+      "name": "Marvel Super Heroes Scene Box",
+      "aliases": [
+        "Scene Box"
+      ],
+      "category": "scene_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+        "sourceTitle": "Collecting Magic: The Gathering® | Marvel Super Heroes: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-06-02",
+        "classification": "official",
+        "usd": 41.99,
+        "sourceLabel": "Scene Box: $41.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--bundle",
+      "name": "The Hobbit Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Bundle: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--collector-booster-box",
+      "name": "The Hobbit Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "hob--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--collector-booster-pack",
+      "name": "The Hobbit Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "official",
+        "usd": 37.99,
+        "sourceLabel": "Collector Booster: $37.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--draft-night",
+      "name": "The Hobbit Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "official",
+        "usd": 119.99,
+        "sourceLabel": "Draft Night: $119.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--gift-bundle",
+      "name": "The Hobbit Gift Bundle",
+      "aliases": [
+        "Gift Bundle"
+      ],
+      "category": "gift_bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Gift Bundle: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--play-booster-box",
+      "name": "The Hobbit Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "hob--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--play-booster-pack",
+      "name": "The Hobbit Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--prerelease-kit",
+      "name": "The Hobbit Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "The Hobbit",
+      "setCode": "HOB",
+      "releaseDate": "2026-08-14",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "hob--scene-box",
+      "name": "The Hobbit Scene Box",
+      "aliases": [
+        "Scene Box"
+      ],
+      "category": "scene_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit",
+        "sourceTitle": "Collecting Magic: The Gathering® | The Hobbit™: The Four Most Important Things to Know",
+        "sourcePublishedDate": "2026-07-18",
+        "classification": "official",
+        "usd": 41.99,
+        "sourceLabel": "Scene Box: $41.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--bundle",
+      "name": "Reality Fracture Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 57.99,
+        "sourceLabel": "Bundle: $57.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--collector-booster-box",
+      "name": "Reality Fracture Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "fra--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--collector-booster-pack",
+      "name": "Reality Fracture Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 26.99,
+        "sourceLabel": "Collector Booster: $26.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--commander-deck--calling-all-angels",
+      "name": "Reality Fracture Calling All Angels Commander Deck",
+      "aliases": [
+        "Foundations Commander Deck",
+        "Calling All Angels"
+      ],
+      "category": "commander_deck",
+      "variant": "Calling All Angels",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 29.99,
+        "sourceLabel": "Foundations Commander Deck: $29.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--commander-deck--keen-engineering",
+      "name": "Reality Fracture Keen Engineering Commander Deck",
+      "aliases": [
+        "Foundations Commander Deck",
+        "Keen Engineering"
+      ],
+      "category": "commander_deck",
+      "variant": "Keen Engineering",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 29.99,
+        "sourceLabel": "Foundations Commander Deck: $29.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--commander-deck--multiverse-reforged",
+      "name": "Reality Fracture Multiverse Reforged Commander Deck",
+      "aliases": [
+        "Multiverse Reforged Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": "Multiverse Reforged",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Multiverse Reforged Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--commander-deck--reign-of-dragons",
+      "name": "Reality Fracture Reign of Dragons Commander Deck",
+      "aliases": [
+        "Foundations Commander Deck",
+        "Reign of Dragons"
+      ],
+      "category": "commander_deck",
+      "variant": "Reign of Dragons",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 29.99,
+        "sourceLabel": "Foundations Commander Deck: $29.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--commander-deck--tramplesaurus-rex",
+      "name": "Reality Fracture Tramplesaurus Rex Commander Deck",
+      "aliases": [
+        "Foundations Commander Deck",
+        "Tramplesaurus Rex"
+      ],
+      "category": "commander_deck",
+      "variant": "Tramplesaurus Rex",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 29.99,
+        "sourceLabel": "Foundations Commander Deck: $29.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--commander-deck--wretched-ranks",
+      "name": "Reality Fracture Wretched Ranks Commander Deck",
+      "aliases": [
+        "Foundations Commander Deck",
+        "Wretched Ranks"
+      ],
+      "category": "commander_deck",
+      "variant": "Wretched Ranks",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 29.99,
+        "sourceLabel": "Foundations Commander Deck: $29.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--draft-night",
+      "name": "Reality Fracture Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Draft Night: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--play-booster-box",
+      "name": "Reality Fracture Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "fra--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--play-booster-pack",
+      "name": "Reality Fracture Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Play Booster: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--prerelease-kit",
+      "name": "Reality Fracture Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Reality Fracture",
+      "setCode": "FRA",
+      "releaseDate": "2026-10-02",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "fra--specialty-bundle--secret-lair-bundle",
+      "name": "Reality Fracture Secret Lair Bundle",
+      "aliases": [
+        "Secret Lair Bundle"
+      ],
+      "category": "specialty_bundle",
+      "variant": "Secret Lair Bundle",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+        "sourceTitle": "Collecting Reality Fracture",
+        "sourcePublishedDate": "2026-09-08",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Secret Lair Bundle: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--bundle",
+      "name": "Star Trek Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 69.99,
+        "sourceLabel": "Bundle: $69.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--collector-booster-box",
+      "name": "Star Trek Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "trk--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--collector-booster-pack",
+      "name": "Star Trek Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 37.99,
+        "sourceLabel": "Collector Booster: $37.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck",
+      "name": "Star Trek Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--collectors-edition",
+      "name": "Star Trek Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--federation-fleet",
+      "name": "Star Trek Federation Fleet Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Federation Fleet"
+      ],
+      "category": "commander_deck",
+      "variant": "Federation Fleet",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--federation-fleet--collectors-edition",
+      "name": "Star Trek Federation Fleet Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Federation Fleet"
+      ],
+      "category": "commander_deck",
+      "variant": "Federation Fleet",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--klingon-fury",
+      "name": "Star Trek Klingon Fury Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Klingon Fury"
+      ],
+      "category": "commander_deck",
+      "variant": "Klingon Fury",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--klingon-fury--collectors-edition",
+      "name": "Star Trek Klingon Fury Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Klingon Fury"
+      ],
+      "category": "commander_deck",
+      "variant": "Klingon Fury",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--landing-party",
+      "name": "Star Trek Landing Party Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Landing Party"
+      ],
+      "category": "commander_deck",
+      "variant": "Landing Party",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--landing-party--collectors-edition",
+      "name": "Star Trek Landing Party Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "Landing Party"
+      ],
+      "category": "commander_deck",
+      "variant": "Landing Party",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--we-are-the-borg",
+      "name": "Star Trek We Are the Borg Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "We Are the Borg"
+      ],
+      "category": "commander_deck",
+      "variant": "We Are the Borg",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 74.99,
+        "sourceLabel": "Commander Deck: $74.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--commander-deck--we-are-the-borg--collectors-edition",
+      "name": "Star Trek We Are the Borg Collector's Edition Commander Deck",
+      "aliases": [
+        "Collector's Edition Commander Deck",
+        "We Are the Borg"
+      ],
+      "category": "commander_deck",
+      "variant": "We Are the Borg",
+      "edition": "collectors_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 159.99,
+        "sourceLabel": "Collector's Edition Commander Deck: $159.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--draft-night",
+      "name": "Star Trek Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 119.99,
+        "sourceLabel": "Draft Night: $119.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--play-booster-box",
+      "name": "Star Trek Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "trk--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--play-booster-pack",
+      "name": "Star Trek Play Booster",
+      "aliases": [
+        "Play Booster"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 6.99,
+        "sourceLabel": "Play Booster: $6.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--prerelease-kit",
+      "name": "Star Trek Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--scene-box",
+      "name": "Star Trek Scene Box",
+      "aliases": [
+        "Scene Box"
+      ],
+      "category": "scene_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 41.99,
+        "sourceLabel": "Scene Box: $41.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Star Trek",
+      "setCode": "TRK",
+      "releaseDate": "2026-11-13",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "trk--specialty-bundle--beam-me-up-bundle",
+      "name": "Star Trek Beam Me Up Bundle",
+      "aliases": [
+        "Beam Me Up Bundle"
+      ],
+      "category": "specialty_bundle",
+      "variant": "Beam Me Up Bundle",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-star-trek",
+        "sourceTitle": "Collecting Magic: The Gathering® | Star Trek™",
+        "sourcePublishedDate": "2026-10-20",
+        "classification": "official",
+        "usd": 99.99,
+        "sourceLabel": "Beam Me Up Bundle: $99.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--bundle",
+      "name": "Nauctis: The Sunken Realm Bundle",
+      "aliases": [
+        "Bundle"
+      ],
+      "category": "bundle",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 57.99,
+        "sourceLabel": "Bundle: $57.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--collector-booster-box",
+      "name": "Nauctis: The Sunken Realm Collector Booster Box",
+      "aliases": [],
+      "category": "collector_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 12,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "nau--collector-booster-pack",
+          "quantity": 12
+        },
+        "note": "No official box MSRP. Benchmark = 12 × official Collector Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--collector-booster-pack",
+      "name": "Nauctis: The Sunken Realm Collector Booster",
+      "aliases": [
+        "Collector Booster"
+      ],
+      "category": "collector_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 26.99,
+        "sourceLabel": "Collector Booster: $26.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck",
+      "name": "Nauctis: The Sunken Realm Commander Deck",
+      "aliases": [
+        "Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--blood-in-the-water",
+      "name": "Nauctis: The Sunken Realm Blood in the Water Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Blood in the Water"
+      ],
+      "category": "commander_deck",
+      "variant": "Blood in the Water",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--blood-in-the-water--premium-edition",
+      "name": "Nauctis: The Sunken Realm Blood in the Water Premium Edition Commander Deck",
+      "aliases": [
+        "Premium Edition Commander Deck",
+        "Blood in the Water"
+      ],
+      "category": "commander_deck",
+      "variant": "Blood in the Water",
+      "edition": "premium_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 79.99,
+        "sourceLabel": "Premium Edition Commander Deck: $79.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--merfolk-regiment",
+      "name": "Nauctis: The Sunken Realm Merfolk Regiment Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Merfolk Regiment"
+      ],
+      "category": "commander_deck",
+      "variant": "Merfolk Regiment",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--merfolk-regiment--premium-edition",
+      "name": "Nauctis: The Sunken Realm Merfolk Regiment Premium Edition Commander Deck",
+      "aliases": [
+        "Premium Edition Commander Deck",
+        "Merfolk Regiment"
+      ],
+      "category": "commander_deck",
+      "variant": "Merfolk Regiment",
+      "edition": "premium_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 79.99,
+        "sourceLabel": "Premium Edition Commander Deck: $79.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--premium-edition",
+      "name": "Nauctis: The Sunken Realm Premium Edition Commander Deck",
+      "aliases": [
+        "Premium Edition Commander Deck"
+      ],
+      "category": "commander_deck",
+      "variant": null,
+      "edition": "premium_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 79.99,
+        "sourceLabel": "Premium Edition Commander Deck: $79.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--seal-the-deal",
+      "name": "Nauctis: The Sunken Realm Seal the Deal Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Seal the Deal"
+      ],
+      "category": "commander_deck",
+      "variant": "Seal the Deal",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--seal-the-deal--premium-edition",
+      "name": "Nauctis: The Sunken Realm Seal the Deal Premium Edition Commander Deck",
+      "aliases": [
+        "Premium Edition Commander Deck",
+        "Seal the Deal"
+      ],
+      "category": "commander_deck",
+      "variant": "Seal the Deal",
+      "edition": "premium_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 79.99,
+        "sourceLabel": "Premium Edition Commander Deck: $79.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--terrors-of-the-abyss",
+      "name": "Nauctis: The Sunken Realm Terrors of the Abyss Commander Deck",
+      "aliases": [
+        "Commander Deck",
+        "Terrors of the Abyss"
+      ],
+      "category": "commander_deck",
+      "variant": "Terrors of the Abyss",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 49.99,
+        "sourceLabel": "Commander Deck: $49.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--commander-deck--terrors-of-the-abyss--premium-edition",
+      "name": "Nauctis: The Sunken Realm Terrors of the Abyss Premium Edition Commander Deck",
+      "aliases": [
+        "Premium Edition Commander Deck",
+        "Terrors of the Abyss"
+      ],
+      "category": "commander_deck",
+      "variant": "Terrors of the Abyss",
+      "edition": "premium_edition",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 79.99,
+        "sourceLabel": "Premium Edition Commander Deck: $79.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--draft-night",
+      "name": "Nauctis: The Sunken Realm Draft Night",
+      "aliases": [
+        "Draft Night"
+      ],
+      "category": "draft_night",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Draft Night: $89.99"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--play-booster-box",
+      "name": "Nauctis: The Sunken Realm Play Booster Box",
+      "aliases": [],
+      "category": "play_booster_box",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 30,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "derived",
+        "usd": null,
+        "derivation": {
+          "method": "combined_pack_msrp",
+          "fromProductId": "nau--play-booster-pack",
+          "quantity": 30
+        },
+        "note": "No official box MSRP. Benchmark = 30 × official Play Booster MSRP (pack count from source)."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--play-booster-pack",
+      "name": "Nauctis: The Sunken Realm Play Booster",
+      "aliases": [
+        "Booster Pack"
+      ],
+      "category": "play_booster_pack",
+      "variant": null,
+      "edition": "standard",
+      "packCount": 1,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 5.49,
+        "sourceLabel": "Booster Pack: $5.49"
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--prerelease-kit",
+      "name": "Nauctis: The Sunken Realm Prerelease Pack",
+      "aliases": [
+        "Prerelease Kit",
+        "Prerelease Pack"
+      ],
+      "category": "prerelease_kit",
+      "variant": null,
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "unavailable",
+        "usd": null,
+        "note": "Wizards does not publish an MSRP for Prerelease Packs."
+      },
+      "verification": "verified"
+    },
+    {
+      "setName": "Nauctis: The Sunken Realm",
+      "setCode": "NAU",
+      "releaseDate": "2027-02-05",
+      "upc": [],
+      "lastVerified": "2026-11-26",
+      "id": "nau--specialty-bundle--secret-lair-bundle",
+      "name": "Nauctis: The Sunken Realm Secret Lair Bundle",
+      "aliases": [
+        "Secret Lair Bundle"
+      ],
+      "category": "specialty_bundle",
+      "variant": "Secret Lair Bundle",
+      "edition": "standard",
+      "packCount": null,
+      "msrp": {
+        "cad": null,
+        "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm",
+        "sourceTitle": "Collecting Nauctis: The Sunken Realm | A First Look",
+        "sourcePublishedDate": "2026-11-13",
+        "classification": "official",
+        "usd": 89.99,
+        "sourceLabel": "Secret Lair Bundle: $89.99"
+      },
+      "verification": "verified"
+    }
+  ]
+}
